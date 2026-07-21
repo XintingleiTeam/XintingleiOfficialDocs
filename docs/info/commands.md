@@ -1,22 +1,22 @@
 # 服内指令
 
-/register 注册密码
+### 常用指令
+* /register 注册密码
+* /login 登录
+* /home 传送至个人传送点
+* /homes 查看当前已设置的个人传送点
+* /sethome 设置个人传送点
+* /delhome 删除个人传送点
+* /phome 传送至公共传送点
+* /homes 查看当前已设置的公共传送点
+* /psethome 设置公共传送点
+* /pdelhome 删除公共传送点
+* /tpa 传送玩家
 
-/login 登录
+### All music
+* /music help 查看帮助
 
-/home 传送
-
-/sethome 设传送点
-
-/delhome 删传送点
-
-/tpa 传送玩家
-
-All music
-
-/music help 查看帮助
-
-Carpet
+### Carpet
 
 详见以下视频
 
