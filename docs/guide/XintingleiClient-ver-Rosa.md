@@ -1,13 +1,13 @@
 # Xintinglei客户端（Rosa_Tenuifolia 特调优化版）
 
 <div class="client-hero">
-  <p>客户端截图：待补充</p>
-
   <div class="client-hero-text">
     <p class="client-hero-title">Rosa_Tenuifolia 特调优化版</p>
     <p class="client-hero-desc">基于官方 XintingleiClient V1.1.0 整理并优化制作而成，面向 Windows + PCL 玩家使用。</p>
   </div>
 </div>
+
+![](/images/XTLClient-Rosa-ScreenShot.png)
 
 ## 简介
 

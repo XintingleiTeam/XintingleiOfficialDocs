@@ -11,8 +11,9 @@
 4\. 在主页设置栏中，找到并点击"联网更新"选项
 
 5\. 在下方的下载地址栏中输入
-
-[https://resource.mc.xintinglei.cn/Custom.xaml](https://resource.mc.xintinglei.cn/Custom.xaml)
+```
+https://resource.mc.xintinglei.cn/Custom.xaml
+```
 
 即可将联网主页同步到您的客户端(如下图所示)
 
